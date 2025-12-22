@@ -1,13 +1,232 @@
 [
     {
         "title": "Ksiazka 1",
-        "url": "dd",
-        "txt": "<p> lalalal </p>"
+        "url": "",
+        "txt": "The mage Azyrion often meets with the knight Sonir on the castle's western tower, far from the rest of the Brotherhood. These conversations take place in complete solitude, at hours when no one should be listening.</br></br>I cannot determine the purpose of these meetings, but there is something in their tone and glances that unsettles me. Are they sharing knowledge, or are they perhaps plotting their own plans, of which no one else has any idea?"
     },
     {
         "title": "Ksiazka 2",
         "url": "",
-        "txt": "<p> bigos bigos </p>"
+        "txt": "I cannot determine all the details, but I suspect it is nothing malicious. They were likely discussing the experiment in which a dead bear was transformed into a Nightmar. It seems to me that their conversation concerned the specifics of that ritual involving the summoning of the dead and how the potion affects dead bodies."
+    },
+    {
+        "title": "Ksiazka 3",
+        "url": "",
+        "txt": "During the ritual meant to determine whether the Fire Devil possessed a soul, I noticed something disturbing. The mages who prepared the potion did not share its ingredients with the others. What they poured into the elixir was no longer the same as what was usually extracted from the tentacles. The substance had clearly changed thicker, foreign, as if infused with something none of us had ever known.</br></br>Unease grows. Even if we all pursue the same goal, not everyone is guided by the same understanding of the potion. Someone chose to make a hidden alteration, and the consequences of this action could be unpredictable."
+    },
+    {
+        "title": "Ksiazka 4",
+        "url": "",
+        "txt": "I managed to observe the details of the ritual. On the left side of the bear's body, we place Hardened Bone, and on the right side  Necroplasma, extracted from the tentacles.</br></br>This arrangement seems crucial, affecting how the potion and the ritual interact with the dead body. Every element has its significance, and even the smallest change in the ingredients or their placement can have unpredictable consequences."
+    },
+    {
+        "title": "Ksiazka 5",
+        "url": "",
+        "txt": "I observed the process of cutting tentacles  a dangerous task requiring full concentration. A knight undertaking this must be equipped with Might Rings, which increase the wearerâ€™s protection. If someone does not feel strong enough, it is best to also secure Stone Skin Amulets to minimize injuries from recoil and the harmful energies of the tentacle.</br></br>A mistake in movement equals the loss of life  the tentacles generate a powerful death field that instantly and mercilessly kills the unprepared. An averagely trained knight will not manage even with their own magical shield.</br></br>The ritual requires an enormous amount of life  life energy is needed for the tentacles to be effectively cut and prepared for further experiments."
+    },
+    {
+        "title": "Ksiazka 6",
+        "url": "",
+        "txt": "Do not touch that substance! It is beautiful, shining like a sapphire in the torchlight, but it carries a curse. The mages fed it to fallen beasts, and they returned to life stronger, wilder than ever before. They say that it was then in Rookgaard that the first undead monsters appeared..."
+    },
+    {
+        "title": "Ksiazka 7",
+        "url": "",
+        "txt": "In the Grasslands, beneath the old stone slabs, lies an entrance that is marked on no map. Only a few know that it is not an ordinary tomb, but a crypt created by the same mages who studied the green slime. It is there that they conducted their most dangerous experiments."
+    },
+    {
+        "title": "Ksiazka 8",
+        "url": "",
+        "txt": "As the bear returned to life, an older, terrifying beast emerged from the shadows. It was named Nightmare, a nightmare that filled the air with dread and foreshadowed impending destruction."
+    },
+    {
+        "title": "Ksiazka 9",
+        "url": "",
+        "txt": "I am deeply puzzled as to why I was supposed to keep my mission hidden from Velquor. What could have been so important or dangerous that Azyrion did not want anyone in the Brotherhood to know the details?</br></br>Equally intriguing is why, as a reward for completing the task, I received such a powerful axe that emanates a strange, foreign energy. Its power far exceeds anything I have encountered before. Is it a reward, or perhaps a way to prepare me for something even greater? I cannot shake the feeling that there is more behind this gesture, something I do not yet understand.</br>S."
+    },
+    {
+        "title": "Ksiazka 10",
+        "url": "",
+        "txt": "Do not touch that substance! It is beautiful, shining like a sapphire in the torchlight, but it carries a curse. The mages fed it to fallen beasts, and they returned to life stronger, wilder than ever before. They say that it was then in Rookgaard that the first undead monsters appeared..."
+    },
+    {
+        "title": "Ksiazka 11",
+        "url": "",
+        "txt": "Some say that Rookgaard is only a prelude to a greater adventureâ€¦ but we, who have remained here, know that this place has its secrets. On the island of Eldgard, beneath the old druid buildings, in the deepest tunnel, lies something that no one should awaken. I pray that the curious never find the right path."
+    },
+    {
+        "title": "Ksiazka 12",
+        "url": "",
+        "txt": "A Fisherman's Tale</br></br>\"One night I saw twinkling lights far out to sea. They were pirate sails, appearing suddenly. They vanished just as quickly, leaving behind only silence and the waves crashing against the shoreâ€”and fear in the hearts of those left ashore.\""
+    },
+    {
+        "title": "Ksiazka 13",
+        "url": "",
+        "txt": "\"The Pirates of Rookgaard\"</br></br>\"They say the waters around Rookgaard have long ceased to be the preserve of fishermen. The shadows of sails appear at night, and pirates rob unwary sailors. Old maps show where they hid treasures, but no one dared to search for themâ€”for whoever approaches their bay may never return.\""
+    },
+    {
+        "title": "Ksiazka 14",
+        "url": "",
+        "txt": "Eldgard, once a peaceful island of fishermen, became a place that attracted mages hungry for power. The volcanic rocks concealed fiery runes, older than mankind. It was here that a fragment of a spell was foundâ€”one that was meant to open a gate to hell itself."
+    },
+    {
+        "title": "Ksiazka 15",
+        "url": "",
+        "txt": "On the surface, we still speak of a shared goal  the potion that restores life, though its ingredients come from plants and tentacles not of this world. Everyone repeats the same words, yet in the eyes of the brothers I see something different.</br></br>Not all of us are guided by the same purpose. Some seek knowledge, others dream of power, and still others wish to bring back one specific person. There are also those driven by a simple fear of death. The potion has become a mirror, reflecting our true desires.</br></br>I am beginning to understand that our unity is an illusion. Beneath the guise of a shared mission, each of us walks our own path, and the life-restoring potion becomes a tool for purposes no one dares speak aloud."
+    },
+    {
+        "title": "Ksiazka 16",
+        "url": "",
+        "txt": "Page 1  \"Shadow in the Mines\"</br></br>\"The old miners of Rookgaard spoke of a creature that inhabited the abandoned tunnels. They called it the Great Centipede. Its body twisted through the labyrinth of tunnels, and its every movement caused the earth to tremble and its jaws to clatter.\""
+    },
+    {
+        "title": "Ksiazka 17",
+        "url": "",
+        "txt": "Page 1</br>\"Shadey was a pirate without a conscience, plundering ships and settlements, and hiding his treasure in the cellars beneath his hut. When death finally came, he found no rest instead of a grave, he received a curse.\""
+    },
+    {
+        "title": "Ksiazka 18",
+        "url": "",
+        "txt": "Page 5</br>â€œThe Druids say that Shadey does not guard gold, but the curse itself â€“ a prison he can never leave. Yet there are still those who seek a way into his lairâ€¦ believing that where the spirit rests, the pirateâ€™s treasure still lies.â€"
+    },
+    {
+        "title": "Ksiazka 19",
+        "url": "",
+        "txt": "Page 3</br>â€œThe entrance to the tombs was long ago sealed. Yet whispers tell of a path from Eldgarde â€“ flooded corridors leading straight to the caverns beneath the pirateâ€™s hut.â€"
+    },
+    {
+        "title": "Ksiazka 20",
+        "url": "",
+        "txt": "Page 4</br>â€œShadey knew the underground passages better than anyone. He used them to reach the Druidsâ€™ island and steal their herbs and treasures. It was they who cursed him and condemned him to eternal damnation, so he could never rest in the afterlife.â€"
+    },
+    {
+        "title": "Ksiazka 21",
+        "url": "",
+        "txt": "Page 2</br>â€œBeneath his hut lie the bodies of betrayed companions and victims. Some say that at night you can hear their wails, and in the windows of the abandoned hut, a flickering shadow appears. Whoever meets his eyes becomes trapped in the underground as a powerless spirit.â€"
+    },
+    {
+        "title": "Ksiazka 22",
+        "url": "",
+        "txt": "I witnessed the ritual. An ordinary wolf, which they had brought dead to the crypt, rose and roared so powerfully that stones fell from the ceiling.  They named this creature the Bonebeast. I fled before it noticed me. Even today, my hands tremble as I write these words."
+    },
+    {
+        "title": "Ksiazka 23",
+        "url": "",
+        "txt": "They say the water near Eldgaard Island Lighthouse holds secrets older than the island itself. At night, it seems to whisper in your ear."
+    },
+    {
+        "title": "Ksiazka 24",
+        "url": "",
+        "txt": "I was there when the circle ignited with a fire taller than the city walls. The ground split, and from the depths came a roar no human could withstand. I saw flaming claws and eyes like two molten lava pits. It was Infernus. I fled, but the fire caught up with me. My soul still burns to this day."
+    },
+    {
+        "title": "Ksiazka 25",
+        "url": "",
+        "txt": "Note 1 â€“ \"Magic Strike\"</br></br>\"Exori Vis is a light blast of magic that projects energy forward. While it doesn't kill an enemy, it can repel beasts and buy them time to escape. On Rookgaard, anyone can master it â€“ you don't need to be a mage to defend the island.\""
+    },
+    {
+        "title": "Ksiazka 26",
+        "url": "",
+        "txt": "Note 1 â€“ \"Light Heal Friend\"</br></br>\"Exura Min Sio allows you to heal wounded friends. This spell isn't for everyoneâ€”only a select few can master it. They say you must earn the trust of the druids before they will teach you this art.\""
+    },
+    {
+        "title": "Ksiazka 27",
+        "url": "",
+        "txt": "Page 1 â€“ â€œThe Birth of Eldgaardâ€</br></br>â€œLong ago, Eldgaard was just a lonely island amidst the waves. No one dared to settle there permanently, for the sea was stormy and the wind sang ominously among the rocks. But one day the druids arrived, seeking a place where they could rest from the world and shape the power of nature.â€"
+    },
+    {
+        "title": "Ksiazka 28",
+        "url": "",
+        "txt": "Page 3 â€“ â€œProtection of the Islandâ€</br></br>â€œIt wasnâ€™t just peace that attracted the druidsâ€”magic as well. The island held secrets that couldnâ€™t be left unguarded. The druids ensured that no one disturbed the harmony, and those who tried to plunder their lands encountered mysterious obstacles: treacherous rocks, shifting currents, and strange echoes in the forest.â€"
+    },
+    {
+        "title": "Ksiazka 29",
+        "url": "",
+        "txt": "Page 2 â€“ â€œThe First Settlersâ€</br></br>â€œThe druids settled the island, planting trees and enchanting the water to produce fish and plants. They built their huts amidst the forests, near springs and animal shelters, creating a place that lived in harmony with nature. They say Eldgarde has never been so peaceful.â€"
+    },
+    {
+        "title": "Ksiazka 30",
+        "url": "",
+        "txt": "Page 4 â€“ \"A Legend for Posterity\"</br></br>\"To this day, it is said that Eldgarde remains a druidic landâ€”an island with a life of its own. Those who come seeking power or adventure should remember: nature rules here, and the island will never surrender easily to those who would possess it.\""
+    },
+    {
+        "title": "Ksiazka 31",
+        "url": "",
+        "txt": "We have achieved what was impossible for others. Death is not the end. Death is a tool. The slime allows us to reverse the course of fate. Yet every being brought back through its power carries angerâ€”anger toward the life that escaped it. If we fail to tame this force, it will tame us."
+    },
+    {
+        "title": "Ksiazka 32",
+        "url": "",
+        "txt": "Page 1</br></br>We begin work on the Elixir of Life. Our goal is to bring back those who have departed. If we succeed, death will no longer be the end."
+    },
+    {
+        "title": "Ksiazka 33",
+        "url": "",
+        "txt": "Page 2</br>We have begun the first trials of the elixir on dead beasts: wolves, bears, fallen creatures from the forests. Their bodies move, yet in their eyes lurks something alien, sinister. These are no longer the same creatures."
+    },
+    {
+        "title": "Ksiazka 34",
+        "url": "",
+        "txt": "Page 3</br></br>The beasts movements grow unnatural. Wolves howl with voices that seem to belong to multiple beings at once. I feel that the elixir does not restore life, but fills the bodies with something elseâ€¦ something we should not summon."
+    },
+    {
+        "title": "Ksiazka 35",
+        "url": "",
+        "txt": "Page 4</br></br>Experiments on humans reveal a terrifying truth: the elixir does not summon the souls of the departed. New entities rise, entirely alien, inhabiting the dead bodies. What we create is not a return to life it is an opening of the door for something else."
+    },
+    {
+        "title": "Ksiazka 36",
+        "url": "",
+        "txt": "Page 5</br></br>The mages warn that we do not summon the dead. We create new beings that merge with dead bodies. Alien entities creep into our experiments."
+    },
+    {
+        "title": "Ksiazka 37",
+        "url": "",
+        "txt": "Page 6</br></br>To confirm our suspicions, we decided to conduct an experiment on a soulless entity the Fire Devil. We must see what truly inhabits a dead body when no previous consciousness remains."
+    },
+    {
+        "title": "Ksiazka 38",
+        "url": "",
+        "txt": "Page 8</br></br>The body of the Fire Devil began to change disturbingly. At one point, it split into two parts, and one transformed into a great demon. The other vanished along with its soul. Where the soul left the body, a pulsating, ominous anomaly formed."
+    },
+    {
+        "title": "Ksiazka 39",
+        "url": "",
+        "txt": "Page 7</br></br>Today, the experiment with the Fire Devil. The soulless entity rose after the elixir. Its gazeâ€¦ as if its true self were returning to the world from which it came, while its body remained in our laboratory."
+    },
+    {
+        "title": "Ksiazka 40",
+        "url": "",
+        "txt": "Page 9</br></br>At the moment of the Fire Devilâ€™s division, everyone present in the laboratory was filled with a strange, alien energy. Some warriors were drawn along with the demonâ€™s soul into another world. Fortunately, a few adepts survived, but many descended into madness."
+    },
+    {
+        "title": "Ksiazka 41",
+        "url": "",
+        "txt": "Page 10</br></br>The demon moved unnaturally, as if its body were trying to escape. Every movement seemed aware and alien, and the aura around it pulsed with an energy I cannot comprehend. I fear the elixir has opened something beyond our control."
+    },
+    {
+        "title": "Ksiazka 42",
+        "url": "",
+        "txt": "Page 11</br></br>The Brotherhood began to fall apart. Merlidax departed toward Eldgaard, claiming he must seek the beast. Azyrion went toward the Grasslands, and Velquor went mad and allied with pirates. A few adepts survived the encounter with the demon, but most succumbed to insanity."
+    },
+    {
+        "title": "Ksiazka 43",
+        "url": "",
+        "txt": "Page 12</br></br>I can no longer remain in the castle. This is my final page. All here will succumb to madness sooner or later. I leave the Zhorath Brotherhood before the darkness and energy of these experiments consume me completely."
+    },
+    {
+        "title": "Ksiazka 44",
+        "url": "",
+        "txt": "Zhorath Brotherhood Journal â€“ Notes</br></br></br>Day 1 </br></br>The experiment with the Fire Devil is over. The consequences are still uncertain. Some brothers are fascinated by its power, others remain silent and avoid conversation.</br></br></br>Day 2</br></br>The first divisions are becoming visible. The Zhorath Brotherhood wants to continue the research â€“ they believe the Fire Devil is the key to a new era.</br>The Cautious warn of consequences. They speak of the risk of poisoning, of tainted blood.</br></br></br>Day 3</br></br>The discussions grow sharper. The Zhorath Brotherhood sits at the same table, but the atmosphere is heavy. Some see in the mixture a great gift, others  a threat.</br>Whispers arise as well not all brothers are being honest. It is said that a different substance was used in the ritual instead of Necroplasma.</br></br></br>Day 4</br></br>The first secret gatherings. The Zhorath Brotherhood meets at night near the ruins of the laboratory. The SILENT  those too afraid to speak  are beginning to disappear from the assemblies.</br>Some of them knew about the false ingredient, yet they kept quiet.</br></br></br>Day 5</br></br>The Zhorath Brotherhood is no longer truly united. There is no open hostility yet, but everyone can see that something has broken. The Fire Devil did not only ignite flames  it tore us apart.</br>The mystery of the substance has not yet been revealed, and suspicions continue to grow."
+    },
+    {
+        "title": "Ksiazka 45",
+        "url": "",
+        "txt": "The soul of the summoned beast was not unified â€“ torn into many voices that still echo through the halls. Screams, whispers, wails â€“ each different, yet all belonged to the same being. The brothers cannot comprehend how something like this can exist.</br></br>The most disturbing event involved Sorin. He had always been the bravest knight of the Zhorath Brotherhood  first into battle, never retreating from fire or blade. Yet during the ritual, when the beast opened the portal, his axe was ripped from his hands and pulled into the abyss.</br>Sorin  instead of fighting  fled in panic. He did not even attempt to resist.</br></br>The sight shook everyone. If even he broke before the beast, what hope is there for the rest of us?  Beast has not only torn our ranks  it has begun to tear our very souls."
+    },
+    {
+        "title": "Ksiazka 46",
+        "url": "",
+        "txt": "I checked the condition of our ritual supporting artifacts  Might Rings and Stone Skin Amulets. Many of them show signs of wear: weakened energies, cracks in their magical structure. Some work only partially, and their power diminishes with prolonged use.</br></br>From experience, it is clear that in the upcoming rituals we will need far more of these items. The current supply will not be sufficient if we want to ensure the potionâ€™s effectiveness and the safety of the experiment participants."
     }
-    
 ]
